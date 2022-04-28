@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emir Keles</h1>
 <h3 align="center">I'm an undergraduate computer engineering student focusing on data science. </h3>
-<img align= "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Python, Java, Data Science**
 

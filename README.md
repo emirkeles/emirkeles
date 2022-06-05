@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emir Keles</h1>
 <h3 align="center">I'm an undergraduate computer engineering student focusing on data science. </h3>
 
-- 🌱 I’m currently learning **Python, Java, Data Science**
+- 🌱 I’m currently learning **Python, Java, Data Science, Data Structures**
 
 - 📫 How to reach me **16emirkeles@gmail.com**
 

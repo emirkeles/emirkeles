@@ -11,7 +11,7 @@
 [<h3 align="center">I'm an undergraduate computer engineering student focusing on data science. </h3>]: # 
 
 
-- 🌱 I’m currently learning **Python, Data Science, Deep Learning, Natural Language Processing and Swift**
+- 🌱 I’m currently learning **Python, Data Science, Deep Learning, Natural Language Processing and Swift, SwiftUI, MVVM**
 
 - 📫 How to reach me **16emirkeles@gmail.com**
 

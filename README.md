@@ -5,13 +5,13 @@
 </h1>
 
  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&width=650&lines=I'm+an+undergraduate+computer+engineering+student;focusing+on+data+science.&font=Fira%20Code&center=true&width=660&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&width=650&lines=I'm+a+computer+engineering+student;focusing+on+iOS+development.&font=Fira%20Code&center=true&width=660&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
  
-[<h3 align="center">I'm an undergraduate computer engineering student focusing on data science. </h3>]: # 
+[<h3 align="center">I'm an computer engineering student focusing iOS. </h3>]: # 
 
 
-- 🌱 I’m currently learning **Python, Data Science, Deep Learning, Natural Language Processing and Swift, SwiftUI, MVVM**
+- 🌱 I’m currently learning **Swift, SwiftUI, MVVM **
 
 - 📫 How to reach me **16emirkeles@gmail.com**
 

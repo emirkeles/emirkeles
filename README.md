@@ -11,7 +11,7 @@
 [<h3 align="center">I'm an computer engineering student focusing iOS. </h3>]: # 
 
 
-- 🌱 I’m currently learning **Swift, SwiftUI, MVVM **
+- 🌱 I’m currently learning **Swift, SwiftUI, MVVM**
 
 - 📫 How to reach me **16emirkeles@gmail.com**
 

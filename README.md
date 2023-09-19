@@ -8,7 +8,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&width=650&lines=I'm+a+computer+engineering+student;focusing+on+iOS+development.&font=Fira%20Code&center=true&width=660&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
 </p>
  
-[<h3 align="center">I'm an computer engineering student focusing iOS. </h3>]: # 
+[<h3 align="center">I'm a computer engineering student focusing iOS. </h3>]: # 
 
 
 - 🌱 I’m currently learning **Swift, SwiftUI, MVVM, React Native**
@@ -51,7 +51,9 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
+  <a href="https://www.github.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="C" width="40" height="40"/> </a>
 </p>
 <p align="left">
   

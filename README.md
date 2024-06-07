@@ -1,17 +1,11 @@
-<h1 align="center">
-  <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Emir+Keles&font=Fira%20Code&center=true&width=440&height=45&color=36BCF7FF&vCenter=true&size=35"></a>
-</p>
-</h1>
+<h1 align="center">Hi 👋, I'm Emir Keleş</h1>
+<h3 align="center">A passionate iOS developer from Türkiye</h3>
 
- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Kanit&size=35&center=true&width=650&lines=I'm+a+computer+engineering+student;focusing+on+iOS+development.&font=Fira%20Code&center=true&width=660&height=45&color=36BCF7FF&vCenter=true&size=22"></a>
-</p>
- 
 [<h3 align="center">I'm a computer engineering student focusing iOS. </h3>]: # 
 
+- 🔭 I’m currently working on [Trexo Innovation](https://trexoin.com)
 
-- 🌱 I’m currently learning **Swift, SwiftUI, React Native**
+- 🌱 I’m currently learning **SwiftUI, UIKit, React Native**
 
 - 📫 How to reach me **16emirkeles@gmail.com**
 

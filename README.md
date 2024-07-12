@@ -3,8 +3,6 @@
 
 [<h3 align="center">I'm a computer engineering student focusing iOS. </h3>]: # 
 
-- 🔭 I’m currently working on [Trexo Innovation](https://trexoin.com)
-
 - 🌱 I’m currently learning **SwiftUI, UIKit, React Native**
 
 - 📫 How to reach me **16emirkeles@gmail.com**

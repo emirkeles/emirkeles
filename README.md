@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Emir Keleş</h1>
-<h3 align="center">A passionate iOS developer from Türkiye</h3>
+<h3 align="center">A passionate Mobile Developer from Türkiye</h3>
 
-[<h3 align="center">I'm a computer engineering student focusing iOS. </h3>]: # 
 
 - 🌱 I’m currently learning **SwiftUI, UIKit, React Native**
 
@@ -40,7 +39,3 @@
 <p align="left">
   
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emirkeles&show_icons=true&locale=en&layout=compact" alt="emirkeles" /></p>
-
-

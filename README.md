@@ -13,5 +13,7 @@
 
 <h3 align="left">Mobile Stack:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=swift,react,expo" alt="Swift, React Native, Expo" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" />
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
 </p>
